@@ -1,0 +1,18 @@
+# Fichiers de cache d'Unreal Engine
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+*.opensdf
+*.sdf
+*.opendb
+*.udb
+
+# Fichiers Visual Studio
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pdb
+*.VC.db
+.vs/
